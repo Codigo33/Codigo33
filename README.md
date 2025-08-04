@@ -1,4 +1,4 @@
-<h1 align="center">Código 33</h1>
+<h1 align="center">🌐 Código 33 🌐</h1>
 
 <p align="center">
   Desarrollo Web | Soluciones a medida | Código limpio y escalable
@@ -33,7 +33,7 @@ Si tenés una idea, escribinos y la transformamos en código!
 
 <br>
 
-[Envianos un whatsapp](https://wa.me/11334452065)  
+✅️ [Envianos un whatsapp](https://wa.me/+54911334452065)  
 
 📩 También por email: codigotreintaytres33@gmail.com.  
 
@@ -43,7 +43,6 @@ Si tenés una idea, escribinos y la transformamos en código!
 ### 🔗 Encontranos también en:
 
 - 🌐 [Sitio oficial de Código 33](http://codigo33.com.ar/)
-- 💼 [LinkedIn](#)
 - 📸 [Instagram](https://www.instagram.com/codigo33_web/)
 - 🛠️ [Freelancer](https://www.freelancer.com/u/Codigo33), [Workana](https://www.workana.com/freelancer/21abdfcd8dd4152d52f6a9a6646d7346)
 
