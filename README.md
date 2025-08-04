@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://codigo33.com">
-    <img src="banner.png" alt="Código 33 banner" width="100%" />
-  </a>
+  <img src="banner.png" alt="Código 33 banner" width="100%" />
 </p>
 
 <h1 align="center">Código 33</h1>
