@@ -6,11 +6,11 @@
 
 ---
 
-<h2>¿Qué hacemos?</h2>
+## ¿Qué hacemos?
 
 Creamos sitios web especializados en sistemas y aplicaciones a medida. Trabajamos desde cero con tecnologías modernas.
 
-**Tecnologías que utilizamos:**
+### 📌 Tecnologías que utilizamos:
 
 - Frontend: HTML, CSS, JavaScript, React
 - Backend: Node.js, Express
@@ -18,7 +18,7 @@ Creamos sitios web especializados en sistemas y aplicaciones a medida. Trabajamo
 - Hosting: Vercel, Netlify, Render, Firebase Hosting
 - Otros: Git, REST APIs, Multer, FormData, Firebase Storage
 
-🛠️ **Servicios que ofrecemos ?**
+### 🛠️ Servicios que ofrecemos ?
 
 - Sitios web profesionales
 - Tiendas online / E-commerce
@@ -27,22 +27,20 @@ Creamos sitios web especializados en sistemas y aplicaciones a medida. Trabajamo
 - Integración de APIs y pagos
 - Optimización SEO y velocidad
 
-📂 **Nuestros proyectos destacados:**
-
-[]
-
-
-📬 **¿Charlamos?**  
+## ¿Tenes algo en mente?
 Estamos disponibles para colaborar en proyectos freelance, remotos o a largo plazo.  
-Si tenés una idea, escribinos y la transformamos en código ! 
+Si tenés una idea, escribinos y la transformamos en código!  
 
-📞 [Envianos un whatsapp](https://wa.me/11334452065)
+<br>
 
-📩 También por email: codigotreintaytres33@gmail.com.
+[Envianos un whatsapp](https://wa.me/11334452065)  
+
+📩 También por email: codigotreintaytres33@gmail.com.  
+
 
 ---
 
-🔗 **Encontranos también en:**
+### 🔗 Encontranos también en:
 
 - 🌐 [Sitio oficial de Código 33](http://codigo33.com.ar/)
 - 💼 [LinkedIn](#)
