@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://codigo33.com">
+    <img src="banner_codigo33.png" alt="Código 33 banner" width="100%" />
+  </a>
+</p>
+
 <h1 align="center">Código 33</h1>
 
 <p align="center">
@@ -6,11 +12,11 @@
 
 ---
 
-🎯 **¿Qué hacemos?**
+<h2>¿Qué hacemos?</h2>
 
 Creamos sitios web especializados en sistemas y aplicaciones a medida. Trabajamos desde cero con tecnologías modernas.
 
-🔧 **Tecnologías que utilizamos:**
+**Tecnologías que utilizamos:**
 
 - Frontend: HTML, CSS, JavaScript, React
 - Backend: Node.js, Express
