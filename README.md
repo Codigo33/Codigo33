@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="banner.png" alt="Código 33 banner" width="100%" />
-</p>
-
 <h1 align="center">Código 33</h1>
 
 <p align="center">
